@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-For CV. You can fork [YYW-CV](../assests/CV-YYW.pdf) .
+For CV. You can fork [YYW-CV](/assests/CV-YYW.pdf) .
 
 
